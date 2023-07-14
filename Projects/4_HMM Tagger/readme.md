@@ -18,7 +18,7 @@ Alternatively, you can download a copy of the project from GitHub and then run a
 
 1. Open a terminal and clone the project repository:
 ```
-$ git clone https://github.com/udacity/artificial-intelligence
+$ git clone https://github.com/Bootcamp-AI/artificial-intelligence
 ```
 
 2. Switch to the project folder and create a conda environment (note: you must already have Anaconda installed):
@@ -39,7 +39,7 @@ See below for project submission instructions.
 
 ## Evaluation
 
-Your project will be reviewed by a Udacity reviewer against the project rubric [here](https://review.udacity.com/#!/rubrics/1429/view). Review this rubric thoroughly, and self-evaluate your project before submission. All criteria found in the rubric must meet specifications for you to pass.
+Your project will be reviewed by a Bootcamp-AI reviewer against the project rubric. Review this rubric thoroughly, and self-evaluate your project before submission. All criteria found in the rubric must meet specifications for you to pass.
 
 ## Submission
 
